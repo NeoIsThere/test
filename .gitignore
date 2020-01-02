@@ -1,0 +1,12 @@
+/.vs
+/cppitertools
+/Debug
+Documentation.chm
+filelist.txt
+/gsl
+main.cpp
+strawberry.bmp
+td five.sln
+td five.vcxproj
+td five.vcxproj.filters
+td five.vcxproj.user
